@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/MdRakibul8721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdrakibul8721" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. rakibul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rakibul islam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-rakibutsho-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rakibul islam" height="30" width="40" /></a>
 <a href="https://fb.com/md. rakibul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. rakibul islam" height="30" width="40" /></a>
 <a href="https://instagram.com/_rakibutsho_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rakibutsho_" height="30" width="40" /></a>
 </p>
