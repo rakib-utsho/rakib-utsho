@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rakibutsho1920@gmail.com**
 
-- ⚡ Fun fact **I'm a proactive learner and a problem-solver at heart, whether it's in web development or in extracurricular leadership roles!**
+- ⚡ Fun fact **I'm a proactive learner and a problem-solver at heart, whether it's in web development or extracurricular leadership roles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
