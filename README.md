@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Best practices in optimizing Laravel and React applications**
 
-- 💬 Ask me about **Laravel Developer**
+- 💬 Ask me about **Full-stack web development with Laravel**
 
 - 📫 How to reach me **rakibutsho1920@gmail.com**
 
