@@ -31,3 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="rakib-utsho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en" alt="rakib-utsho" /></p>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rakib-utsho&label=Profile%20Views&color=0&pretty=true" />
+</a>
