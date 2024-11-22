@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I'm a proactive learner and a problem-solver at heart, whether it's in web development or extracurricular leadership roles!**
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://x.com/MdRakibul8721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdrakibul8721" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-rakibutsho-cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rakibul islam" height="30" width="40" /></a>
