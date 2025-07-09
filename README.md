@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakib-utsho" alt="rakib-utsho" /></a> </p>
 
-- 🔭 I’m currently working on [UrbanNest](https://github.com/rakib-utsho/UrbanNest-Rental-WebApp)
+- 🔭 I’m currently working on [Uber Clone](https://github.com/rakib-utsho/UrbanNest-Rental-WebApp)
 
 - 🌱 I’m currently learning **MERN**
 
