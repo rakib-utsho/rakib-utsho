@@ -16,11 +16,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhrshohel" /> </p>
 
+- 🔭 I’m currently working on **Javascript, MERN Stack, React, NEXT JS**
 
+- 🌱 I’m currently learning **Go & Socket.io.**
 
-# 💫 About Me:
-👨‍💻 About Me<br><br>🌟 Passionate Full-Stack Developer with expertise in MERN Stack (MongoDB, Express, React, Node.js).<br><br>🛠 Skilled in TypeScript, Redux, Next.js, TailwindCSS, and RESTful APIs.<br><br>☁️ Experience with Cloudinary, Multer, and Image Processing (Sharp).<br><br>🔐 Familiar with Authentication & Authorization (JWT, Cookies, Middleware).<br><br>📦 Proficient in Form Handling & Validation (React Hook Form, Zod).<br><br>⚙️ Love solving complex dependency conflicts and debugging backend issues.<br><br>🌱 Currently exploring advanced Next.js middleware & full-stack scalability patterns.
+- 👯 I’m looking to collaborate on Full Stack Development.
 
+- 💬 Ask me about **JavaScript**
+
+- 📫 How to reach me **rakibutsho.vercel.app**
+
+- 📄 Know about me and my experiences from my repositories
+
+- ⚡ Fun fact **I love to play Football**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakibulislam.utsho) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rakibutsho_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rakibutsho-cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakibutsho1920@gmail.com) 
