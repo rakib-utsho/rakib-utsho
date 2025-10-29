@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&width=700&lines=Hi+there!+👋+I’m+Md.+Habibur+Rahman+Shohel;Software+Engineer(JavaScript);Crafting+Clean+UI+%26+Reusable+Components;Solving+Real+World+Problems+with+Code;Open+Source+Contributor+%26+Lifelong+Learner;Let’s+Connect+and+Create+Together!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&width=700&lines=Hi+there!+👋+I’m+Md.+Rakibul+Islam;Software+Engineer(JavaScript);Crafting+Clean+UI+%26+Reusable+Components;Solving+Real+World+Problems+with+Code;Open+Source+Contributor+%26+Lifelong+Learner;Let’s+Connect+and+Create+Together!">
   </a>
 </p>
 
