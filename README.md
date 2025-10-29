@@ -1,6 +1,21 @@
 [//]: # ( <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>)
 [//]: # (<h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh</h3>)
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&width=700&lines=Hi+there!+👋+I’m+Md.+Habibur+Rahman+Shohel;Software+Engineer(JavaScript);Crafting+Clean+UI+%26+Reusable+Components;Solving+Real+World+Problems+with+Code;Open+Source+Contributor+%26+Lifelong+Learner;Let’s+Connect+and+Create+Together!">
+  </a>
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhrshohel" /> </p>
+
 
 
 # 💫 About Me:
