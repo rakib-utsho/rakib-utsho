@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Md. Rakibul Islam
-
-💻 **Full-Stack Developer** \| 🚀 Passionate about building scalable web
-applications \| ⚡ Enthusiastic learner
+[//]: # ( <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>)
+[//]: # (<h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh</h3>)
 
 
 
