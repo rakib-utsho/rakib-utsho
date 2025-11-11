@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **rakibutsho.vercel.app**
+- 📫 How to reach me **[rakibutsho](https://portfolio-rakibutsho.vercel.app/)**
 
 - 📄 Know about me and my experiences from my repositories
 
