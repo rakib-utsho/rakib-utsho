@@ -85,11 +85,9 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&theme=merko&hide_rank=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko&hide_progress=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko)
+![](https://github-readme-stats.vercel.app/api?username=rakib-utsho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rakib-utsho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
