@@ -98,7 +98,7 @@
 <!-- GitHub Trophies -->
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakib-utsho" alt="trophy" />
+  ![](https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </p>
 
 <!-- GitHub Activity Graph -->
