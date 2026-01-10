@@ -83,25 +83,24 @@
 
 
 <!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<table align="center" cellpadding="10">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&count_private=true&theme=merko" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko&hide_progress=true)
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <img src="https://profile-counter.glitch.me/rakib-utsho/count.svg" alt="Visitors Count" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&theme=merko" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko&hide_progress=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rakib-utsho/count.svg" />
+</p>
+
 
 <!-- GitHub Trophies -->
 <h2>🏆 GitHub Trophies</h2>
