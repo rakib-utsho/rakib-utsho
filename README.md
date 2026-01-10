@@ -85,21 +85,12 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&theme=merko" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&theme=merko&hide_rank=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko&hide_progress=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko&hide_progress=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/rakib-utsho/count.svg" />
-</p>
 
 
 <!-- GitHub Trophies -->
