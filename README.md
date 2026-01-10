@@ -90,7 +90,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&count_private=true&theme=merko" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko" alt="Top Languages" />
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko&hide_progress=true)
     </td>
   </tr>
   <tr>
