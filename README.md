@@ -103,11 +103,10 @@
 
 
 <!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 <!-- GitHub Activity Graph -->
