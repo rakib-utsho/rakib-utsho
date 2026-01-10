@@ -81,9 +81,8 @@
 </table>
 
 
-
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF" />
@@ -96,17 +95,6 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=dark&hide_border=false&title_color=1E90FF&text_color=1E90FF" />
 </p> -->
-
-
-
-
-
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 <!-- GitHub Activity Graph -->
