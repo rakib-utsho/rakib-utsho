@@ -1,45 +1,125 @@
-[//]: # ( <h1 align="center">Hi 👋, I'm Md. Rakibul Islam</h1>)
-[//]: # (<h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh</h3>)
+<!-- Hero + Typing SVG -->
+<h3 align="center">🚀 Tech Stack I Use</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="90" alt="Go"/>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90"/>
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="90"/>
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="90"/>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="90"/>
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="90"/>
 </p>
-<br>
-<br>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&width=700&lines=Hi+there!+👋+I%27m+Md.+Rakibul+Islam;Software+Engineer+(JavaScript);I+build+clean+interfaces,+solve+real+world+problems+%26+learn+something+new+every+day;Let%27s+Connect+and+Create+Together!">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=750&lines=Hi+there!+👋+I%27m+Md.+Rakibul+Islam;Software+Engineer+(JavaScript+%26+Go);I+build+clean+interfaces,+scalable+backends+%26; solve+real+world+problems; Always+learning,+always+building.+Let%27s+connect!"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<table align="center">
+  <tr>
+    <td width="45%" align="center">
+      <img
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+        width="380"
+        alt="Developer Banner"
+      />
+    </td>
+    <td width="55%" align="left">
+      <h1>Hello 👋, I'm Md. Rakibul Islam</h1>
+      <h3>Software Engineer</h3>
+      <p>
+       JavaScript & Go developer focused on clean UI, scalable systems, and real-world solutions..
+        Always learning, always building 🚀
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhrshohel" /> </p>
+## 💼 About Me
 
-- 🔭 I’m currently working on **Javascript, MERN Stack, React, NEXT JS**
+- 🔭 I’m currently working on **JavaScript, MERN Stack, React, Next.js**  
+- 🌱 I’m currently learning **Go & Socket.io**  
+- 👯 I’m looking to collaborate on **Full Stack Development**  
+- 💬 Ask me about **JavaScript**  
+- 📫 How to reach me: [Portfolio](https://portfolio-rakibutsho.vercel.app/)  
+- 📄 Learn more about me and my experiences from my **repositories**  
+- ⚡ Fun fact: **I love to play Football**
 
-- 🌱 I’m currently learning **Go & Socket.io.**
+<!-- Skills Section -->
+<h2>💻 Skills</h2>
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center">
+      <b>📝 Languages</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <b>⚛️ Frameworks & Libraries</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <b>🛠 Tools & Databases</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
-- 👯 I’m looking to collaborate on Full Stack Development.
 
-- 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **[rakibutsho](https://portfolio-rakibutsho.vercel.app/)**
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
+<table align="center" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&count_private=true&theme=merko" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=merko" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img src="https://profile-counter.glitch.me/rakib-utsho/count.svg" alt="Visitors Count" />
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about me and my experiences from my repositories
+<!-- GitHub Trophies -->
+<h2>🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rakib-utsho" alt="trophy" />
+</p>
 
-- ⚡ Fun fact **I love to play Football**
+<!-- GitHub Activity Graph -->
+<h2>📈 GitHub Activity Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakibulislam.utsho) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rakibutsho_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rakibutsho-cse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakibutsho1920@gmail.com) 
+<!-- Support Me -->
+<!-- <h2 align="center">☕ Support Me</h2> -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/rakibutsho">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakib-utsho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rakib-utsho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
