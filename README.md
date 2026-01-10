@@ -86,14 +86,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=rakib-utsho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=rakib-utsho&theme=dark&hide_border=false&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=dark&hide_border=false&title_color=1E90FF&text_color=1E90FF)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF" />
 </p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rakib-utsho&theme=dark&hide_border=false&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-utsho&layout=compact&theme=dark&hide_border=false&title_color=1E90FF&text_color=1E90FF" />
+</p>
+
 
 
 
