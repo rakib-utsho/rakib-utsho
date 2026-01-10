@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko" alt="GitHub Streak" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=merko" alt="GitHub Streak" />
     </td>
     <td align="center">
       <img src="https://profile-counter.glitch.me/rakib-utsho/count.svg" alt="Visitors Count" />
