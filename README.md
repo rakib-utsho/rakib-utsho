@@ -15,11 +15,14 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=750&lines=Hi+there!+👋+I%27m+Md.+Rakibul+Islam;Software+Engineer+(JavaScript+%26+Go);I+build+clean+interfaces,+scalable+backends+%26; solve+real+world+problems; Always+learning,+always+building.+Let%27s+connect!"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I%27m+Md.+Rakibul+Islam;Software+Engineer+%28JavaScript+%26+Go%29;I+build+clean+interfaces,+scalable+backends;Solve+real+world+problems;Always+learning,+always+building.+Let%27s+connect!"
       alt="Typing SVG"
     />
   </a>
 </p>
+
+
+
 
 <table align="center">
   <tr>
