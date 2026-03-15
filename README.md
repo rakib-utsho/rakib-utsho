@@ -86,9 +86,18 @@
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
-<p align="center">
+<!-- <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=rakib-utsho&theme=dark&hide_border=false&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" />
+</p> -->
+
+<p align="center">
+  <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="hasibur14" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en" alt="hasibur14" /></p>
 </p>
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasibur14&" alt="hasibur14" /></p>
 
 
 <!-- GitHub Activity Graph -->
@@ -96,6 +105,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Support Me -->
 <!-- <h2 align="center">☕ Support Me</h2> -->
