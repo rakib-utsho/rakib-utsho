@@ -91,13 +91,13 @@
 </p> -->
 
 <p align="center">
-  <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="hasibur14" /></p>
+  <!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="hasibur14" /></p> -->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en" alt="rakib-utsho" /></p>
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&" alt="rakib-utsho" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&" alt="rakib-utsho" /></p> -->
 
 
 <!-- GitHub Activity Graph -->
