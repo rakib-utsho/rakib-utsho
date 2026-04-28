@@ -1,119 +1,157 @@
-<!-- Hero + Typing SVG -->
-<h3 align="center">🚀 Tech Stack I Use</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="90" alt="Go"/>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90"/>
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="90"/>
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="90"/>
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="90"/>
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="90"/>
-</p>
+<h1>Hi there! 👋 I'm Md. Rakibul Islam</h1>
+<h3>Software Engineer | JavaScript & Go Developer</h3>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;JavaScript+%26+Go+Developer;MERN+Stack+%7C+React+%7C+Next.js;Building+clean+interfaces;Creating+scalable+backends"
+  alt="Typing SVG"
+  width="100%"
+/>
+
+</div>
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I%27m+Md.+Rakibul+Islam;Software+Engineer+%28JavaScript+%26+Go%29;I+build+clean+interfaces,+scalable+backends;Solve+real+world+problems;Always+learning,+always+building.+Let%27s+connect!"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<div align="center">
 
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Developer Banner"
+  width="100%"
+  style="max-width: 500px;"
+/>
 
+</div>
 
-
-<table align="center">
-  <tr>
-    <td width="45%" align="center">
-      <img
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-        width="380"
-        alt="Developer Banner"
-      />
-    </td>
-    <td width="55%" align="left">
-      <h1>Hello 👋, I'm Md. Rakibul Islam</h1>
-      <h3>Software Engineer</h3>
-      <p>
-       JavaScript & Go developer focused on clean UI, scalable systems, and real-world solutions..
-        Always learning, always building 🚀
-      </p>
-    </td>
-  </tr>
-</table>
+---
 
 ## 💼 About Me
 
-- 🔭 I’m currently working on **JavaScript, MERN Stack, React, Next.js**  
-- 🌱 I’m currently learning **Go & Socket.io**  
-- 👯 I’m looking to collaborate on **Full Stack Development**  
-- 💬 Ask me about **JavaScript**  
-- 📫 How to reach me: [Portfolio](https://portfolio-rakibutsho.vercel.app/)  
-- 📄 Learn more about me and my experiences from my **repositories**  
+- 🔭 I’m currently working on **JavaScript, MERN Stack, React, Next.js**
+- 🌱 I’m currently learning **Go & Socket.io**
+- 👯 I’m looking to collaborate on **Full Stack Development**
+- 💬 Ask me about **JavaScript**
+- 📫 Reach me through my **[Portfolio](https://portfolio-rakibutsho.vercel.app/)**
+- 📄 Learn more about me from my **repositories**
 - ⚡ Fun fact: **I love to play Football**
 
-<!-- Skills Section -->
-<h2>💻 Skills</h2>
-<table align="center" cellpadding="10">
-  <tr>
-    <td align="center">
-      <b>📝 Languages</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </td>
-    <td align="center">
-      <b>⚛️ Frameworks & Libraries</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-    </td>
-    <td align="center">
-      <b>🛠 Tools & Databases</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    </td>
-  </tr>
-</table>
+---
 
+## 🚀 Tech Stack I Use
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<!-- <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rakib-utsho&theme=dark&hide_border=false&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" />
-</p> -->
+<div align="center">
 
-<p align="center">
-  <!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="hasibur14" /></p> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="55" alt="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" alt="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub"/>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en" alt="rakib-utsho" /></p>
+</div>
+
+---
+
+## 💻 Skills
+
+### 📝 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
+### ⚛️ Frameworks & Libraries
 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&" alt="rakib-utsho" /></p> -->
-
-
-<!-- GitHub Activity Graph -->
-<h2>📈 GitHub Activity Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+
+### 🛠 Tools & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en&theme=react"
+  alt="GitHub Stats"
+  width="100%"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact&theme=react"
+  alt="Top Languages"
+  width="100%"
+/>
+
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=react&area=true&order=5"
+  alt="GitHub Activity Graph"
+  width="100%"
+/>
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Support Me -->
-<!-- <h2 align="center">☕ Support Me</h2> -->
-<p align="center">
-  <a href="https://www.buymeacoffee.com/rakibutsho">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<div align="center">
 
+<img
+  src="https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+  alt="GitHub Trophies"
+  width="100%"
+/>
+
+</div>
+
+---
+
+## ☕ Support Me
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/rakibutsho">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    height="50"
+    width="210"
+    alt="Buy Me A Coffee"
+  />
+</a>
+
+</div>
