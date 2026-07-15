@@ -96,7 +96,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rakib-utsho&theme=highcontrast" alt="rakib-utsho streak badge"/>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakib-utsho&theme=github_dark" alt="Top languages by repo badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakib-utsho&theme=github_dark" alt="Top languages by repo badge"/>
 </div>
 
 <br/>
