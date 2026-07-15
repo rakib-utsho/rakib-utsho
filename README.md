@@ -1,37 +1,40 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Rakibul%20Islam%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer%20%7C%20React%20%7C%20Node.js%20%7C%20Docker&descAlignY=58&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Rakibul%20Islam&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer%20%7C%20React%20%7C%20Node.js%20%7C%20Docker&descAlignY=58&descSize=16" />
+
+  <br/>
+  <br/>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Software+Engineer+at+SM+Technology;Building+scalable+web+ecosystems+from+ground+up;M.Sc.+in+CS+@+Jahangirnagar+University;Frontend+Mastery+|+Full-Stack+Execution" alt="Typing SVG" width="100%" style="max-width: 600px;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=10B981&center=true&width=800&lines=Software+Engineer+at+SM+Technology;Building+scalable+web+ecosystems+from+ground+up;M.Sc.+in+CS+@+Jahangirnagar+University;Frontend+Mastery+|+Full-Stack+Execution" alt="Typing SVG" width="100%" style="max-width: 600px;" />
   </a>
 
-<br/>
+  <br/>
+  <br/>
 
   <p align="center">
-  <a href="https://www.linkedin.com/in/md-rakibutsho-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://rakibutsho.dev/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:rakibutsho1920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/MdRakibul8721"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <!-- <a href="https://dev.to/mdhrshohel"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> -->
-</p>
+    <a href="https://www.linkedin.com/in/md-rakibutsho-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://rakibutsho.dev/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:rakibutsho1920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://x.com/MdRakibul8721"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  </p>
 
   <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-6366F1?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=rakib-utsho&label=Profile+Views&color=0891b2&style=for-the-badge" />
-</p>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-FF6B35?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-6366F1?style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=rakib-utsho&label=Profile+Views&color=0891b2&style=for-the-badge" />
+  </p>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" alt="Go"/>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"/>
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60"/>
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60"/>
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60"/>
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="55" alt="Go"/>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="55"/>
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="55"/>
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="55"/>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="55"/>
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="55"/>
 </p>
 
 ---
