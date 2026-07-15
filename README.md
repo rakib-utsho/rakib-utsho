@@ -87,8 +87,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0d1117" alt="rakib-utsho stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="rakib-utsho languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en" alt="rakib-utsho stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="rakib-utsho languages" width="48%" />
 </div>
 
 <br/>
