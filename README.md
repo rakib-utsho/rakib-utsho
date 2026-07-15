@@ -94,8 +94,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=tokyonight&hide_border=true&border_radius=10" alt="rakib-utsho streak" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rakib-utsho languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakib-utsho&theme=highcontrast" alt="rakib-utsho streak badge"/>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakib-utsho&theme=github_dark" alt="Top languages by repo badge"/>
 </div>
 
 <br/>
@@ -104,13 +105,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=radical&area=true&order=5&hide_border=true&bg_color=0d1117" width="100%" style="max-width: 900px;" alt="activity-graph" />
 </div>
 
----
+<!-- ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" style="max-width: 900px;" />
-</div>
+</div> -->
 
 ---
 
