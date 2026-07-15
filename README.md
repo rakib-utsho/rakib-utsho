@@ -1,131 +1,115 @@
-<!-- Hero + Typing SVG -->
-<h3 align="center">🚀 Tech Stack I Use</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 400px;" alt="Developer Banner" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="70" alt="Go"/>
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70"/>
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="70"/>
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="70"/>
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70"/>
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70"/>
-</p>
+  <h1>Hi there 👋, I'm Md. Rakibul Islam</h1>
+  <h3>Frontend-Focused Full Stack Developer | Software Engineer</h3>
+
+  <p>
+    Building highly interactive, SEO-optimized web apps using React, Next.js, and Node.js. 
+    <br/>
+    Obsessed with clean code, scalable architecture, and pixel-perfect UI.
+  </p>
+
+  <p>
+    <a href="https://rakibutsho.dev/">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/rakib-utsho/">LinkedIn</a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&width=750&lines=Software+Engineer+at+SM+Technology;Building+scalable+web+ecosystems+from+ground+up;M.Sc.+in+CS+@+Jahangirnagar+University;Frontend+Mastery+|+Full-Stack+Execution" alt="Typing SVG" width="100%" style="max-width: 600px;" />
+  </a>
+</div>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=750&lines=Hi+there!+%F0%9F%91%8B+I%27m+Md.+Rakibul+Islam;Software+Engineer+%28JavaScript+%26+Go%29;I+build+clean+interfaces,+scalable+backends;Solve+real+world+problems;Always+learning,+always+building.+Let%27s+connect!"
-      alt="Typing SVG"
-      width="100%"
-      style="max-width: 750px;"
-    />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" alt="Go"/>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"/>
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="60"/>
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="60"/>
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="60"/>
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60"/>
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="45%" align="center">
-      <img
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-        width="100%"
-        style="max-width: 380px;"
-        alt="Developer Banner"
-      />
-    </td>
-    <td width="55%" align="left">
-      <h1>Hello 👋, I'm Md. Rakibul Islam</h1>
-      <h3>Software Engineer</h3>
-      <p>
-       JavaScript & Go developer focused on clean UI, scalable systems, and real-world solutions..
-        Always learning, always building 🚀
-      </p>
-    </td>
-  </tr>
-</table>
+---
 
 ## 💼 About Me
 
-- 🔭 I’m currently working on **JavaScript, MERN Stack, React, Next.js**  
-- 🌱 I’m currently learning **Go & Socket.io**  
-- 👯 I’m looking to collaborate on **Full Stack Development**  
-- 💬 Ask me about **JavaScript**  
-- 📫 How to reach me: [Portfolio](https://rakibutsho.dev/)  
-- 📄 Learn more about me and my experiences from my **repositories**  
-- ⚡ Fun fact: **I love to play Football**
+- 🏢 **Current Role:** Frontend Engineer at **SM Technology**.
+- 🎓 **Education:** Pursuing **M.Sc. in Computer Science** at Jahangirnagar University (Previously B.Sc. CSE at BUBT).
+- 🌟 **Community:** Former President of the BUBT IT Club and Event Coordinator for ICPC Regionals.
+- 🔭 **Focus:** Architecting scalable web ecosystems, specializing in **Next.js, React, Node.js, and modern web performance**.
+- 🌱 **Learning:** Always expanding my knowledge in **Go, Socket.io, and Microservices**.
+- 💬 **Ask me about:** React, Next.js, Frontend Architecture, JavaScript, and building community.
+- 📫 **How to reach me:** Connect with me on my [Portfolio](https://rakibutsho.dev/)
 
-<!-- Skills Section -->
-<h2>💻 Skills</h2>
+---
 
-<table align="center" width="100%" cellpadding="10">
-  <tr>
-    <td align="center" width="33%">
-      <b>📝 Languages</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </td>
-    <td align="center" width="33%">
-      <b>⚛️ Frameworks & Libraries</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-    </td>
-    <td align="center" width="33%">
-      <b>🛠 Tools & Databases</b><br/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    </td>
-  </tr>
-</table>
+## 💻 Technical Arsenal
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <!-- <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="hasibur14" /></p> -->
-
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en"
-    alt="rakib-utsho"
-    width="100%"
-    style="max-width: 500px;"
-  />
+### ⚛️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<h2>📈 GitHub Activity Graph</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=react&area=true&order=5"
-    width="100%"
-    style="max-width: 900px;"
-    alt="activity-graph"
-  />
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
+
+### 🛠 Tools & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0d1117" alt="rakib-utsho stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="rakib-utsho languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=radical&area=true&order=5&hide_border=true&bg_color=0d1117" width="100%" style="max-width: 900px;" alt="activity-graph" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=false&no-bg=false&margin-w=4"
-    alt="GitHub Trophies"
-    width="100%"
-    style="max-width: 900px;"
-  />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rakib-utsho&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" style="max-width: 900px;" />
+</div>
 
-<!-- Support Me -->
-<!-- <h2 align="center">☕ Support Me</h2> -->
-<p align="center">
+---
+
+<div align="center">
+  <h3>🤝 Support Me</h3>
   <a href="https://www.buymeacoffee.com/rakibutsho">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="Buy Me A Coffee" />
   </a>
-</p>
+</div>
