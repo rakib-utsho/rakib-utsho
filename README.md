@@ -50,7 +50,7 @@
 - 🌱 I’m currently learning **Go & Socket.io**  
 - 👯 I’m looking to collaborate on **Full Stack Development**  
 - 💬 Ask me about **JavaScript**  
-- 📫 How to reach me: [Portfolio](https://portfolio-rakibutsho.vercel.app/)  
+- 📫 How to reach me: [Portfolio](https://rakibutsho.dev/)  
 - 📄 Learn more about me and my experiences from my **repositories**  
 - ⚡ Fun fact: **I love to play Football**
 
