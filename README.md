@@ -1,23 +1,26 @@
 <div align="center">
-  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 400px;" alt="Developer Banner" /> -->
-
-  <h1>Hi there 👋, I'm Md. Rakibul Islam</h1>
-  <h3>Frontend-Focused Full Stack Developer | Software Engineer</h3>
-
-  <p>
-    Building highly interactive, SEO-optimized web apps using React, Next.js, and Node.js. 
-    <br/>
-    Obsessed with clean code, scalable architecture, and pixel-perfect UI.
-  </p>
-
-  <p>
-    <a href="https://rakibutsho.dev/">Portfolio</a> •
-    <a href="https://www.linkedin.com/in/rakib-utsho/">LinkedIn</a>
-  </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Rakibul%20Islam%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer%20%7C%20React%20%7C%20Node.js%20%7C%20Docker&descAlignY=58&descSize=16" />
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&width=750&lines=Software+Engineer+at+SM+Technology;Building+scalable+web+ecosystems+from+ground+up;M.Sc.+in+CS+@+Jahangirnagar+University;Frontend+Mastery+|+Full-Stack+Execution" alt="Typing SVG" width="100%" style="max-width: 600px;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Software+Engineer+at+SM+Technology;Building+scalable+web+ecosystems+from+ground+up;M.Sc.+in+CS+@+Jahangirnagar+University;Frontend+Mastery+|+Full-Stack+Execution" alt="Typing SVG" width="100%" style="max-width: 600px;" />
   </a>
+
+<br/>
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/md-rakibutsho-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://rakibutsho.dev/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:rakibutsho1920@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/MdRakibul8721"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <!-- <a href="https://dev.to/mdhrshohel"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a> -->
+</p>
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-1.5%2B%20Years-6366F1?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rakib-utsho&label=Profile+Views&color=0891b2&style=for-the-badge" />
+</p>
 </div>
 
 <br/>
@@ -48,6 +51,7 @@
 ## 💻 Technical Arsenal
 
 ### ⚛️ Frontend
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -61,6 +65,7 @@
 </p>
 
 ### ⚙️ Backend & Databases
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -73,6 +78,7 @@
 </p>
 
 ### 🛠 Tools & Cloud
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -87,8 +93,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib-utsho&show_icons=true&locale=en" alt="rakib-utsho stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact" alt="rakib-utsho languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib-utsho&theme=tokyonight&hide_border=true&border_radius=10" alt="rakib-utsho streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rakib-utsho&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="rakib-utsho languages" width="48%" />
 </div>
 
 <br/>
