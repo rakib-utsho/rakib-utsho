@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 400px;" alt="Developer Banner" />
+  <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width: 400px;" alt="Developer Banner" /> -->
 
   <h1>Hi there 👋, I'm Md. Rakibul Islam</h1>
   <h3>Frontend-Focused Full Stack Developer | Software Engineer</h3>
