@@ -94,15 +94,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakib-utsho&theme=highcontrast" alt="rakib-utsho streak badge"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rakibutsho&theme=highcontrast" alt="rakibutsho streak badge"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakib-utsho&theme=github_dark" alt="Top languages by repo badge"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibutsho&theme=github_dark" alt="Top languages by repo badge"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib-utsho&radius=16&theme=radical&area=true&order=5&hide_border=true&bg_color=0d1117" width="100%" style="max-width: 900px;" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibutsho&radius=16&theme=radical&area=true&order=5&hide_border=true&bg_color=0d1117" width="100%" style="max-width: 900px;" alt="activity-graph" />
 </div>
 
 <!-- ---
